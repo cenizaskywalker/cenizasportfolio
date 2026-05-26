@@ -13,6 +13,11 @@ const images = [
     { src: "ImagesWorks/ShopFrame.png", name: "Project 2" },
     { src: "ImagesWorks/SettingsFrame.png", name: "Project 3" },
     { src: "ImagesWorks/BotonesArriba.png", name: "Project 4" },
+    { src: "ImagesWorks/botonescomisiones.png", name: "Project 5" },
+    { src: "ImagesWorks/comision2.png", name: "Project 6" },
+    { src: "ImagesWorks/inventario.png", name: "Project 7" },
+    { src: "ImagesWorks/comision3.png", name: "Project 8" },
+    { src: "ImagesWorks/comision (1).png", name: "Project 9" },
 ];
 
 function createImageViewer() {
